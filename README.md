@@ -1,4 +1,4 @@
-### taqih-saleh 👋
+### taqih-saleh👋
 
 <!--
 **taqih-saleh/taqih-saleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
